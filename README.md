@@ -4,7 +4,8 @@ A simple, go ahead module for [PayEx](http://payex.com/). It's based upon a the 
 
 ## Configure
 
-To avoid confusion, please note that the [PayEx PHP Class](https://github.com/cobraz/payex) has a configuration file included aswell, you don't need to use that, perferably not. We've added a more Larvel-like configuration inside the bundle directory, so use that.
+Copy the configuration file from config/payex.php to application/config/payex.php, and set your
+details.
 
 Do you need more information? Go the the [PayEx PHP Class](https://github.com/cobraz/payex) GitHub page.
 
