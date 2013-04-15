@@ -1,0 +1,3 @@
+[submodule "payex"]
+	path = payex
+	url = https://github.com/cobraz/payex
